@@ -6,3 +6,8 @@
 *.ipch
 *.opendb
 *.db
+/.vs
+/MainBook/MainBook/x64/Debug
+/MainBook/x64/Debug/MainBook.pdb
+/MainBook/x64/Debug/MainBook.ilk
+/MainBook/x64/Debug/MainBook.exe
